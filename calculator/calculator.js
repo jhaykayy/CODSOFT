@@ -1,5 +1,4 @@
 const display = document.querySelector('input[name="display"]');
-
 const buttons = document.querySelectorAll('input[type="button"]');
 
 buttons.forEach(button => {
